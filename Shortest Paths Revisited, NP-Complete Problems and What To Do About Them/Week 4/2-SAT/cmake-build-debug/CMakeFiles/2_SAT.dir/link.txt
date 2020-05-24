@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_SAT.dir/main.cpp.o CMakeFiles/2_SAT.dir/Vertex.cpp.o CMakeFiles/2_SAT.dir/Graph.cpp.o  -o 2_SAT 

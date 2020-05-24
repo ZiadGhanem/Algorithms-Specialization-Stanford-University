@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TravellingSalesman_Heuritsic.dir/main.cpp.o  -o TravellingSalesman_Heuritsic 

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585514004 source:/home/ziadyasser/Documents/CodeBlocks_Workspace/Travelling_Salesman/Travelling_Salesman/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<algorithm>
+	<float.h>
+

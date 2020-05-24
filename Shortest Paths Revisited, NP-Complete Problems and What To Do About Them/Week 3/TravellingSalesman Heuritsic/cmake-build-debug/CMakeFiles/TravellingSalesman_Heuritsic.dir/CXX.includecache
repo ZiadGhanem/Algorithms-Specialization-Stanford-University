@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ziadyasser/Documents/CLion_Workspace/TravellingSalesman_Heuritsic/main.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+string
+-
+vector
+-
+cfloat
+-
+algorithm
+-
+

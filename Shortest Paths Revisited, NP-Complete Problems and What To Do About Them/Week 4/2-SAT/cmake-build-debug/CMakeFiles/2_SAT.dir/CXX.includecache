@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ziadyasser/Documents/CLion_Workspace/2-SAT/Graph.cpp
+iostream
+-
+stack
+-
+algorithm
+-
+iostream
+-
+Graph.h
+/home/ziadyasser/Documents/CLion_Workspace/2-SAT/Graph.h
+
+/home/ziadyasser/Documents/CLion_Workspace/2-SAT/Graph.h
+Vertex.h
+/home/ziadyasser/Documents/CLion_Workspace/2-SAT/Vertex.h
+
+/home/ziadyasser/Documents/CLion_Workspace/2-SAT/Vertex.h
+vector
+-
+

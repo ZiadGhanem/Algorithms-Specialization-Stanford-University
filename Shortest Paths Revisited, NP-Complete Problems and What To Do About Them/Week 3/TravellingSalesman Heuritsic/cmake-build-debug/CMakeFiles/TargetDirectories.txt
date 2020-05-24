@@ -1,0 +1,3 @@
+/home/ziadyasser/Documents/CLion_Workspace/TravellingSalesman_Heuritsic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ziadyasser/Documents/CLion_Workspace/TravellingSalesman_Heuritsic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ziadyasser/Documents/CLion_Workspace/TravellingSalesman_Heuritsic/cmake-build-debug/CMakeFiles/TravellingSalesman_Heuritsic.dir
